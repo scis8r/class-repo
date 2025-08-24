@@ -1,4 +1,4 @@
 # repo-exercise
 Meta class repo
-Arup
-Back end Specialization
+Sean
+Front end Specialization
